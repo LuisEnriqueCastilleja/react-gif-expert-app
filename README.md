@@ -1,4 +1,2 @@
-# React + Vite
-
- # GifExpertApp
-Este es mi repositorio del proyecto de GifExpertApp de React
+# GifExpertApp
+- This is a app that i developed for a react course in Udemy.
